@@ -11,7 +11,7 @@ We are former classmates and friends from [Security and Cloud Computing programm
 ## Members of the team
 
 ### Akzharkyn Duisembiyeva
-- Plant parent and traveller
+- Plant-lover and traveller
 - [Linkedin](https://www.linkedin.com/in/akzharkyn-duisembiyeva/) [Github](https://github.com/AkzharkynDM)
 ```
                               __
@@ -34,27 +34,19 @@ We are former classmates and friends from [Security and Cloud Computing programm
 - Avid book reader and coffee addict
 - [Linkedin](https://www.linkedin.com/in/ahmed-bedair/) [Github](https://github.com/CCbedair)
 ```
-  ,_-~~~-,    _-~~-_
- /        ^-_/      \_    _-~-.
-|      /\  ,          `-_/     \
-|   /~^\ '/  /~\  /~\   / \_    \
- \_/    }/  /        \  \ ,_\    }
-        Y  /  /~  /~  |  Y   \   |
-       /   | {Q) {Q)  |  |    \_/
-       |   \  _===_  /   |
-       /  >--{     }--<  \
-     /~       \_._/       ~\
-    /    *  *   Y    *      \
-    |      * .: | :.*  *    |
-    \    )--__==#==__--     /
-     \_      \  \  \      ,/
-       '~_    | |  }   ,~'
-          \   {___/   /
-           \   ~~~   /
-           /\._._._./\
-          {    ^^^    }
-           ~-_______-~
-            /       \
+`;-.          ___,
+  `.`\_...._/`.-"`
+    \        /      ,
+    /()   () \    .' `-._
+   |)  .    ()\  /   _.'
+   \  -'-     ,; '. <
+    ;.__     ,;|   > \
+   / ,    / ,  |.-'.-'
+  (_/    (_/ ,;|.<`
+    \    ,     ;-`
+     >   \    /
+    (_,-'`> .'
+         (_,'
 ```
 
 ### Khiem Luong Tran
