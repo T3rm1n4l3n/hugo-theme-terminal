@@ -2,7 +2,7 @@
 title = "Hello Friend"
 date = "2021-08-06"
 author = "T3rm1n4l3n"
-cover = "hello.jpg"
+cover = "img/hello.jpg"
 description = "Welcome to the page of T3rm1n4l3n team"
 +++
 
